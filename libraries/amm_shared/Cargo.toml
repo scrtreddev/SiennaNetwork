@@ -1,5 +1,5 @@
 [package]
-name = "amm-shared"
+name = "amm_shared"
 version = "0.1.0"
 authors = ["Asparuh Kamenov <asparuhkamenov@gmail.com>"]
 edition = "2018"
