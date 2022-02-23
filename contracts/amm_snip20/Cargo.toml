@@ -8,4 +8,4 @@ edition = "2018"
 crate-type = ["cdylib", "rlib"]
 
 [dependencies]
-amm-shared = { path = "../../libraries/amm-shared" }
+amm_shared = { path = "../../libraries/amm_shared" }
