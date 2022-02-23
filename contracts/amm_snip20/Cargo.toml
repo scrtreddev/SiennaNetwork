@@ -1,5 +1,5 @@
 [package]
-name = "amm-snip20"
+name = "amm_snip20"
 version = "0.1.0"
 authors = ["Asparuh Kamenov <asparuh@hack.bg>"]
 edition = "2018"
